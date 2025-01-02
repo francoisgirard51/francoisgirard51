@@ -6,15 +6,11 @@
 💬 I speak French, English and Mandarin Chinese.
 
 ## My data science project portfolio
-### [Housing market data analysis](https://github.com/francoisgirard51/housing_market_data_analysis_in_R)
-### [Credit risk: probabilities of default](https://github.com/francoisgirard51/credit_risk_prob_default)
-### [Credit risk scoring for subprime mortgages](https://github.com/francoisgirard51/credit_risk_subprime_mortgages)
-### [Music genre classification](https://github.com/francoisgirard51/music-genre_classification_with_pca)
-### [Loan suitability prediction](https://github.com/francoisgirard51/loan_suitability_prediction)
-
-
-## Pro bono consulting
-If you are a NGO, I would be happy to support you with my skills. You can contact me here: francois.l.girard@protonmail.com
+### [1/ Housing market data analysis](https://github.com/francoisgirard51/housing_market_data_analysis_in_R)
+### [2/ Credit risk: probabilities of default](https://github.com/francoisgirard51/credit_risk_prob_default)
+### [3/ Credit risk scoring for subprime mortgages](https://github.com/francoisgirard51/credit_risk_subprime_mortgages)
+### [4/ Music genre classification](https://github.com/francoisgirard51/music-genre_classification_with_pca)
+### [5/ Loan suitability prediction](https://github.com/francoisgirard51/loan_suitability_prediction)
 
 
 ## Medium blog
@@ -30,3 +26,6 @@ A few articles, just for illustrative purposes...
 - [A strategy case, American Airlines and the olive story.](https://medium.com/strategy-and-tactics/a-strategy-case-american-airline-and-the-olive-story-82fcae3ab868?sk=9362883b59b3106aa85031a22c953bfc)
 - [A strategy case, Toyota and the art of operational charity.](https://medium.com/strategy-and-tactics/a-strategy-case-toyota-and-the-art-of-operational-charity-f0d20b2f127b?sk=0eac35e3619dffd0ff90d72ac744613d)
 - [A strategy case, Salomon and dominating without crushing.](https://medium.com/strategy-and-tactics/a-strategy-case-salomon-and-dominating-without-crushing-135283accf9b)
+
+## Pro bono consulting
+If you are a NGO, I would be happy to support you with my skills. You can contact me here: francois.l.girard@protonmail.com
