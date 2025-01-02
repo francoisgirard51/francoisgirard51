@@ -14,7 +14,7 @@
 
 
 ## Pro bono consulting
-If you are an NGO, I would be happy to support you with my skills. You can contact me here: francois.l.girard@protonmail.com
+If you are a NGO, I would be happy to support you with my skills. You can contact me here: francois.l.girard@protonmail.com
 
 
 ## Medium blog
