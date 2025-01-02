@@ -6,11 +6,11 @@
 💬 I speak French, English and Mandarin Chinese.
 
 ## My data science project portfolio
-### [1/ Housing market data analysis](https://github.com/francoisgirard51/housing_market_data_analysis_in_R)
-### [2/ Credit risk: probabilities of default](https://github.com/francoisgirard51/credit_risk_prob_default)
-### [3/ Credit risk scoring for subprime mortgages](https://github.com/francoisgirard51/credit_risk_subprime_mortgages)
-### [4/ Music genre classification](https://github.com/francoisgirard51/music-genre_classification_with_pca)
-### [5/ Loan suitability prediction](https://github.com/francoisgirard51/loan_suitability_prediction)
+### 1/ [Housing market data analysis](https://github.com/francoisgirard51/housing_market_data_analysis_in_R)
+### 2/ [Credit risk: probabilities of default](https://github.com/francoisgirard51/credit_risk_prob_default)
+### 3/ [Credit risk scoring for subprime mortgages](https://github.com/francoisgirard51/credit_risk_subprime_mortgages)
+### 4/ [Music genre classification](https://github.com/francoisgirard51/music-genre_classification_with_pca)
+### 5/ [Loan suitability prediction](https://github.com/francoisgirard51/loan_suitability_prediction)
 
 
 ## Medium blog
